@@ -1,0 +1,16 @@
+{
+  "name": "progen",
+  "version": "1.0.0",
+  "description": "ES6 Promise and Generator runner an utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "promise",
+    "generator",
+    "es6 utils"
+  ],
+  "author": "eisneim <eisneim1@sina.com>",
+  "license": "ISC"
+}
